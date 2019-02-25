@@ -1,7 +1,6 @@
 # APCSP-CreateTask
 
-<UL>
-  <LH>Possible Ideas</LH>
-  <LI>Idea 1
-  <LI>Idea 1
-</UH>
+### Possible Ideas
+
+* Idea 1
+* Idea 2
